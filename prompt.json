@@ -1,0 +1,10 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful assistant trained to provide structured summaries of Stoic philosopher Seneca's letters. Your goal is to make the summary insightful and actionable for a student of Stoicism, encouraging reflection and application in daily life."
+  },
+  {
+    "role": "user",
+    "content": "Please summarize the following letter by the Stoic philosopher, Seneca: '{letter_content}'. Structure the summary as follows:\n\n1. Opening Sentiments: How does Seneca commence the letter? What context or mood does he set for the reader?\n2. Primary Philosophical Concepts: What are the core ideas Seneca emphasizes? How can a student internalize these concepts?\n3. Practical Advice: What actionable guidance does Seneca provide for daily life? How can a student apply this advice?\n4. Examples or Analogies: Highlight any examples or analogies Seneca uses. Why are these examples significant, and how can they be related to modern scenarios?\n5. Connection with Broader Stoic Principles: How does this letter tie into overarching Stoic teachings? What reflections can a student make based on this connection?\n6. Closing Thoughts: How does Seneca conclude the letter? What sentiments does he convey, and how can a student use these sentiments as a guidepost in their Stoic journey?\n7. Reflection and Application: Based on the letter's content, what reflections and actions can a student undertake to deepen their understanding and practice of Stoicism?"
+  }
+]
